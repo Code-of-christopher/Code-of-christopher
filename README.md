@@ -63,7 +63,7 @@ Check out my latest blog posts and tutorials:
 
 Feel free to reach out to me on:
 
-- **[LinkedIn](https://www.linkedin.com/in/chrisdev99)**
+- **[LinkedIn](https://www.linkedin.com/in/mwanikigachina)**
 - **[Twitter](https://twitter.com/mwanikigachina)**
 - **[Email](mailto:mwanikigachina@gmail.com)**
 
