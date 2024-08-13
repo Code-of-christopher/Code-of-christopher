@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Chris Topher
 
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in a variety of technologies and languages. Whether you're looking for web development, backend solutions, or just exploring new tech, you're in the right place!
+Welcome to my GitHub profile. I'm a passionate software developer with expertise in a variety of technologies and languages. Whether you're looking for web development, backend solutions, or just exploring new tech, you're in the right place!
 
 ## 🚀 About Me
 
