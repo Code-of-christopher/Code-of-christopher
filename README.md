@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 I specialize in:
 - **Frontend Development:** HTML, CSS, JavaScript, TypeScript, React
-- **Backend Development:** Node.js, Express, PHP, WordPress
+- **Backend Development:** Node.js, Express, WordPress
 - **Tools & Technologies:** Git, npm, WordPress
 
 I'm also familiar with:
-- **Languages:** C, C++, Java, Python
-- **Frameworks & Libraries:** Angular, Vue
+- **Languages:** C, C++, Java, Python, PHP
+- **Frameworks & Libraries:** Angular, Vue, Django, Flask
 
 ## 📚 My Skills
 
