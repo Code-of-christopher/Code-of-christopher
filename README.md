@@ -7,7 +7,7 @@
     Welcome to my GitHub profile. 
 </h3>
 <br/>
-<div>
+<div align="center">
     I'm a fullstack developer with expertise in a variety of technologies and languages.
 </div>
 
