@@ -11,9 +11,9 @@
     I'm a fullstack developer with expertise in a variety of technologies and languages.
 </div>
 
-## 🚀 About Me
 
-I specialize in:
+
+## 🚀 I specialize in:
 - **Frontend Development:** HTML, CSS, JavaScript, TypeScript, React
 - **Backend Development:** Node.js, Express, WordPress
 - **Tools & Technologies:** Git, npm, WordPress
