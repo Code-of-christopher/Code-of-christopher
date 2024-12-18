@@ -4,7 +4,7 @@
 </h1>
 <br/>
 <div align="center">
-    I'm a fullstack developer with mastery in Frontend development and expertise in backend development.
+    I'm a fullstack developer with mastery in Frontend development and expertise in backend technologies.
 </div>
 
 ## 🚀 I specialize in:
