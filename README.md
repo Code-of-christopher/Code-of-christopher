@@ -7,8 +7,8 @@
     I'm a fullstack developer with mastery in Frontend development and expertise in backend technologies.
 </div>
 
-## 🚀 I specialize in:
-- **Frontend Development:** HTML, CSS, JavaScript, TypeScript, React
+## 🚀 My specialty is in:
+- **Frontend Development:** TypeScript, React, NextJs
 - **Backend Development:** Node.js, Express, WordPress
 - **Tools & Technologies:** Git, npm, WordPress
 
