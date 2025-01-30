@@ -55,10 +55,10 @@ Check out my latest blog posts and tutorials:
 Feel free to reach out to me on:
 
 - **[LinkedIn](https://www.linkedin.com/in/mwanikigachina)**
-- **[Twitter](https://twitter.com/mwanikigachina)**
+- **[Twitter](https://twitter.com/dev0Chris)**
 - **[Email](mailto:mwanikigachina@gmail.com)**
 
 ---
 
-**[Chris Topher](https://twitter.com/mwanikigachina)** | **[Kenyan Bitcoiner](https://twitter.com/kenyanbitcoiner)**<!--[Your Portfolio](#) | [Your Blog](#)-->
+**[Chris Topher](https://twitter.com/dev0Chris)** | **[Kenyan Bitcoiner](https://twitter.com/kenyanbitcoiner)**<!--[Your Portfolio](#) | [Your Blog](#)-->
 
