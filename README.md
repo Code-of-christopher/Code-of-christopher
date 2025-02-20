@@ -8,8 +8,8 @@
 </div>
 
 ## 🚀 My specialty is in:
-- **Frontend Development:** TypeScript, React, NextJs
-- **Backend Development:** Node.js, Express, WordPress
+- **Frontend Development:** TypeScript, React, NextJs, WordPress
+- **Backend Development:** Node.js, Express
 - **Tools & Technologies:** Git, npm, WordPress
 
 I also work with:
@@ -29,19 +29,17 @@ I also work with:
 </div>
 <!--
 ## 💼 Projects
-
 Here are some of my recent projects:
-
 - **[Project Name](#)**: A brief description of your project and what technologies you used.
 - **[Project Name](#)**: A brief description of your project and what technologies you used.
 - **[Project Name](#)**: A brief description of your project and what technologies you used.
 -->
   
-<!--
+
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-of-christopher&theme=radical)
 
 ## 📝 Blog Posts
 
@@ -49,7 +47,7 @@ Check out my latest blog posts and tutorials:
 
 - **[Blog Post Title](#)**: A brief summary of the blog post.
 - **[Blog Post Title](#)**: A brief summary of the blog post.
--->
+
 ## 📬 Get in Touch
 
 Feel free to reach out to me on:
