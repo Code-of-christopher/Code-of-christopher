@@ -39,7 +39,8 @@ Here are some of my recent projects:
 ## 📈 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-of-christopher&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Code-of-christopher&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <!--
