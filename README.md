@@ -34,10 +34,6 @@
 
 ## 📈 My GitHub Stats  
 
-![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  [![GitHub Streak](https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-of-christopher&layout=compact&theme=radical)
-
-## 🎶 GitHub Vibes 🚀
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
@@ -60,7 +56,7 @@
 
 ## 📈 My Wakatime Stats  
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Code-of-christopher&theme=tokyonight)](https://wakatime.com/@Code-of-christopher)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)
 
 ---
 
