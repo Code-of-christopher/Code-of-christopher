@@ -27,9 +27,8 @@
 
 
 ## 📚 Currently Learning
-
-    Rust 🦀
-    Go 🚀
+   - Rust 🦀
+   - Go 🚀
 
 
 ## 📬 Get in Touch
