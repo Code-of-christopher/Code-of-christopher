@@ -4,8 +4,8 @@
 <br/>
 <div align="center">
     I'm a fullstack developer working with typescript
-    <code>&lt;CodeRefactoringExpert /&gt;</code>
 </div>
+ <code>&lt;CodeRefactoringExpert /&gt;</code>
 
 
 
