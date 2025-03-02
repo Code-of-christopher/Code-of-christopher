@@ -4,6 +4,7 @@
 <br/>
 <div align="center">
     I'm a fullstack developer working with typescript
+    <code>&lt;CodeRefactoringExpert /&gt;</code>
 </div>
 
 
@@ -32,9 +33,7 @@
 
 
 ## 📈 My Stats  
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" /> 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" />    [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)    <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" /> 
 
 
 ## 📚 Currently Learning
