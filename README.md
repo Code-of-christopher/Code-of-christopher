@@ -1,17 +1,12 @@
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome!;+I'm+Chris+Topher;" /> </h1> <div align="center"> <strong>I'm a Fullstack Developer specializing in TypeScript.</strong> </div> 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome+👋;+I'm+Chris+Topher;" />
-</h1>
-<br/>
-<div align="center">
-    I'm a fullstack developer working with typescript
-</div>
-
-##  My specialty is in:
-- **Frontend Development:** React, NextJs
-- **Backend Development:** Node.js
+##  🚀 My Tech Stack
+ **Frontend Development** 
+   React, Next.js, Tailwind CSS, Material UI, Bootstrap
+ **Backend Development** 
+   Node.js, Express.js, MongoDB, MySQL, Firebase
   
-## 📚 My Skills
+## 🛠️ Tools & Technologies
 <div align="center">
     
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
@@ -26,10 +21,13 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  
 
 
-## Currently learning Rust and Go
+
+## 📚 Currently Learning
+   - Rust 🦀
+   - Go 🚀
 
 
-## 📬 Get in Touch
+## 📬 Let's Connect!
 
 - **[LinkedIn](https://www.linkedin.com/in/mwanikigachina)**
 - **[Twitter](https://twitter.com/dev0Chris)**
