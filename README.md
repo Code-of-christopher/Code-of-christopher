@@ -1,59 +1,44 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome!;+I'm+Chris+Topher;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome!;+I'm+Chris+Topher;" />
 </h1>
 
 <div align="center">
     <strong>I'm a Fullstack Developer specializing in TypeScript.</strong>
-    <br/>
-    <small><i>Building efficient & scalable applications.</i></small>
-    <br/>
-    <sub><code>&lt;CodeRefactoringExpert /&gt;</code></sub>
-</div>
+     <sub><code>&lt;CodeRefactoringExpert /&gt;</code></sub>
+</div>  
 
 <br/>
 
 ## 🚀 My Tech Stack  
 
 ### **Frontend Development**
-- <kbd>React</kbd><sup><a href="https://react.dev/" title="React Documentation" target="_blank">Docs</a></sup> <img src="https://img.shields.io/npm/v/react?style=flat-square" alt="React Version"/>, <kbd>Next.js</kbd><sup><a href="https://nextjs.org/" title="Next.js Documentation" target="_blank">Docs</a></sup> <img src="https://img.shields.io/npm/v/next?style=flat-square" alt="Next.js Version"/>, <kbd>Tailwind CSS</kbd><sup><a href="https://tailwindcss.com/" title="Tailwind CSS Documentation" target="_blank">Docs</a></sup>, <kbd>Material UI</kbd><sup><a href="https://mui.com/" title="Material UI Documentation" target="_blank">Docs</a></sup>, <kbd>Bootstrap</kbd><sup><a href="https://getbootstrap.com/" title="Bootstrap Documentation" target="_blank">Docs</a></sup>
+<kbd><a href="https://react.dev/" title="React Documentation" target="_blank">React</a></kbd> <img src="https://img.shields.io/npm/v/react?style=flat-square" alt="React Version"/>, <kbd><a href="https://nextjs.org/" title="Next.js Documentation" target="_blank">Next.js</a></kbd> <img src="https://img.shields.io/npm/v/next?style=flat-square" alt="Next.js Version"/>, <kbd><a href="https://tailwindcss.com/" title="Tailwind CSS Documentation" target="_blank">Tailwind CSS</a></kbd>, <kbd><a href="https://mui.com/" title="Material UI Documentation" target="_blank">Material UI</a></kbd>, <kbd><a href="https://getbootstrap.com/" title="Bootstrap Documentation" target="_blank">Bootstrap</a></kbd>
 
 ### **Backend Development**
-- <kbd>Node.js</kbd><sup><a href="https://nodejs.org/" title="Node.js Documentation" target="_blank">Docs</a></sup> <img src="https://img.shields.io/node/v/node?style=flat-square" alt="Node.js Version"/>, <kbd>Express.js</kbd><sup><a href="https://expressjs.com/" title="Express.js Documentation" target="_blank">Docs</a></sup> <img src="https://img.shields.io/npm/v/express?style=flat-square" alt="Express.js Version"/>, <kbd>MongoDB</kbd><sup><a href="https://www.mongodb.com/" title="MongoDB Documentation" target="_blank">Docs</a></sup>, <kbd>MySQL</kbd><sup><a href="https://www.mysql.com/" title="MySQL Documentation" target="_blank">Docs</a></sup>, <kbd>Firebase</kbd><sup><a href="https://firebase.google.com/" title="Firebase Documentation" target="_blank">Docs</a></sup>
+<kbd><a href="https://nodejs.org/" title="Node.js Documentation" target="_blank">Node.js</a></kbd> <img src="https://img.shields.io/node/v/node?style=flat-square" alt="Node.js Version"/>, <kbd><a href="https://expressjs.com/" title="Express.js Documentation" target="_blank">Express.js</a></kbd> <img src="https://img.shields.io/npm/v/express?style=flat-square" alt="Express.js Version"/>, <kbd><a href="https://www.mongodb.com/" title="MongoDB Documentation" target="_blank">MongoDB</a></kbd>, <kbd><a href="https://www.mysql.com/" title="MySQL Documentation" target="_blank">MySQL</a></kbd>, <kbd><a href="https://firebase.google.com/" title="Firebase Documentation" target="_blank">Firebase</a></kbd>
 
 <br/>
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies  
 
 <div align="center">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,firebase,mongodb,mysql,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" alt="Developer Skills"/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+
 </div>
 
-<br/>
-
-## ⚙️ My Setup
-
-- **OS:** Arch Linux 💻
-- **Editor:** VSCode <sup><a href="https://code.visualstudio.com/docs" title="VSCode Docs" target="_blank">Docs</a></sup>
-- **Terminal:** Alacritty
-- **Shell:** Zsh
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,firebase,mongodb,mysql,bootstrap,mui,html,css,vscode,github,figma,tailwind,git"/>
+</div>  
 <br/>
 
 ## 📈 My Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" alt="GitHub Streak"/>
-    <br/>
-    <a href="https://wakatime.com/@christphr" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight" alt="WakaTime Stats"/>
-    </a>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" alt="GitHub Streak"/>
+<a href="https://wakatime.com/@christphr" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight" alt="WakaTime Stats"/>
+</a>
 
 <br/>
 
