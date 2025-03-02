@@ -7,7 +7,7 @@
     I'm a fullstack developer working with typescript
 </div>
 
-## 🚀 My specialty is in:
+##  My specialty is in:
 - **Frontend Development:** React, NextJs
 - **Backend Development:** Node.js
   
