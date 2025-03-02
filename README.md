@@ -6,7 +6,7 @@
     <strong>I'm a Fullstack Developer specializing in TypeScript.</strong>
 </div>  
 
----
+
 
 ## 🚀 My Tech Stack  
 
@@ -16,7 +16,7 @@
 ### **Backend Development**  
 - Node.js, Express.js, MongoDB, MySQL, Firebase  
 
----
+
 
 ## 🛠️ Tools & Technologies  
 
@@ -30,42 +30,24 @@
     <img src="https://skillicons.dev/icons?i=javascript,firebase,mongodb,mysql,bootstrap,mui,html,css,vscode,github,figma,tailwind,git"/>
 </div>  
 
----
 
-## 📈 My GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-of-christopher&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Code-of-christopher/Code-of-christopher/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 📈 My Stats  
 
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />  <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight&hide_border=true" /> 
 
----
-
-## 📈 My Wakatime Stats  
+  <img src="https://github.com/Code-of-christopher/Code-of-christopher/blob/output/github-contribution-grid-snake.svg" /> 
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)
 
----
+
 
 ## 📚 Currently Learning  
 - Rust 🦀  
 - Go 🚀  
 - Solidity ⚖️  
 
----
+
 
 ## 📬 Get in Touch  
 
