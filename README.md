@@ -5,9 +5,8 @@
 <div align="center">
     I'm a fullstack developer working with typescript
 </div>
- <code>&lt;CodeRefactoringExpert /&gt;</code>
 
-
+<br/>
 
 ## 🚀 My Tech Stack  
 
@@ -17,7 +16,7 @@
 ### **Backend Development**  
 - Node.js, Express.js, MongoDB, MySQL, Firebase  
 
-
+<br/>
 
 ## 🛠️ Tools & Technologies  
 
@@ -30,12 +29,12 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,firebase,mongodb,mysql,bootstrap,mui,html,css,vscode,github,figma,tailwind,git"/>
 </div>  
-
+<br/>
 
 ## 📈 My Stats  
   <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" />    [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)    <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" /> 
 
-
+<br/>
 ## 📚 Currently Learning
 
 - <samp>Rust 🦀</samp> <a href="https://www.rust-lang.org/" title="Rust Documentation" target="_blank">(Docs)</a>
