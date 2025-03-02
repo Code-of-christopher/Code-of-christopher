@@ -1,23 +1,22 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome!;+I'm+Chris+Topher;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome+👋;+I'm+Chris+Topher;" />
 </h1>
-
-<div align="center">
-    <strong>I'm a Fullstack Developer specializing in TypeScript.</strong>
-     <sub><code>&lt;CodeRefactoringExpert /&gt;</code></sub>
-</div>  
-
 <br/>
+<div align="center">
+    I'm a fullstack developer working with typescript
+</div>
+
+
 
 ## 🚀 My Tech Stack  
 
-### **Frontend Development**
-<kbd><a href="https://react.dev/" title="React Documentation" target="_blank">React</a></kbd> <img src="https://img.shields.io/npm/v/react?style=flat-square" alt="React Version"/>, <kbd><a href="https://nextjs.org/" title="Next.js Documentation" target="_blank">Next.js</a></kbd> <img src="https://img.shields.io/npm/v/next?style=flat-square" alt="Next.js Version"/>, <kbd><a href="https://tailwindcss.com/" title="Tailwind CSS Documentation" target="_blank">Tailwind CSS</a></kbd>, <kbd><a href="https://mui.com/" title="Material UI Documentation" target="_blank">Material UI</a></kbd>, <kbd><a href="https://getbootstrap.com/" title="Bootstrap Documentation" target="_blank">Bootstrap</a></kbd>
+### **Frontend Development**  
+- React, Next.js, Tailwind CSS, Material UI, Bootstrap  
 
-### **Backend Development**
-<kbd><a href="https://nodejs.org/" title="Node.js Documentation" target="_blank">Node.js</a></kbd> <img src="https://img.shields.io/node/v/node?style=flat-square" alt="Node.js Version"/>, <kbd><a href="https://expressjs.com/" title="Express.js Documentation" target="_blank">Express.js</a></kbd> <img src="https://img.shields.io/npm/v/express?style=flat-square" alt="Express.js Version"/>, <kbd><a href="https://www.mongodb.com/" title="MongoDB Documentation" target="_blank">MongoDB</a></kbd>, <kbd><a href="https://www.mysql.com/" title="MySQL Documentation" target="_blank">MySQL</a></kbd>, <kbd><a href="https://firebase.google.com/" title="Firebase Documentation" target="_blank">Firebase</a></kbd>
+### **Backend Development**  
+- Node.js, Express.js, MongoDB, MySQL, Firebase  
 
-<br/>
+
 
 ## 🛠️ Tools & Technologies  
 
@@ -30,17 +29,13 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,firebase,mongodb,mysql,bootstrap,mui,html,css,vscode,github,figma,tailwind,git"/>
 </div>  
-<br/>
 
-## 📈 My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" alt="GitHub Streak"/>
-<a href="https://wakatime.com/@christphr" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight" alt="WakaTime Stats"/>
-</a>
+## 📈 My Stats  
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" /> 
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)
 
-<br/>
 
 ## 📚 Currently Learning
 
