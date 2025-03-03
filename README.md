@@ -50,11 +50,11 @@
 
 
 <details>
-    ## 📈 Stats
+  <summary> 📈 Stats</summary>
 
-    <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" />
-    <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" />
-    [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)
+<img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" />
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)
     
 </details>
 
