@@ -35,14 +35,16 @@
 <img src="https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight" />     <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" />    [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)
 
 <br/>
+
 ## 📚 Currently Learning
+
 - <samp>Rust 🦀</samp> <a href="https://www.rust-lang.org/" title="Rust Documentation" target="_blank">(Docs)</a>
 - <samp>Go 🚀</samp> <a href="https://go.dev/" title="Go Documentation" target="_blank">(Docs)</a>
 - <samp>Solidity ⚖️</samp> <a href="https://docs.soliditylang.org/" title="Solidity Documentation" target="_blank">(Docs)</a>
 
 
-
 <br/>
+
 ## 📬 Get in Touch
 
 <div align="center">
