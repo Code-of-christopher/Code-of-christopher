@@ -53,6 +53,8 @@
 <details>
   <summary> 📈 Stats</summary>
   <div align=center>
+
+  [![wakatime](https://wakatime.com/badge/user/018cd045-fe91-427a-afe0-e7d3b832cda0.svg)](https://wakatime.com/@018cd045-fe91-427a-afe0-e7d3b832cda0) <br/> <br/>
       
 <img src="https://github-readme-stats.vercel.app/api?username=Code-of-christopher&show_icons=true&count_private=true&theme=tokyonight" /> <br/>
 <br/>
