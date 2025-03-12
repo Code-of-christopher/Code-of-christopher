@@ -60,7 +60,7 @@
 <br/>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Code-of-christopher&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Code-of-christopher&theme=tokyonight)
 
 <br/>
 <br/>
