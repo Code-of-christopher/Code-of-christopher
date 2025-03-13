@@ -14,7 +14,7 @@
 - React, Next.js, Tailwind CSS, Material UI, Bootstrap  
 
 ### **Backend Development**  
-- Node.js, Express.js, MongoDB, MySQL, Firebase  
+- Node.js, Express.js, MongoDB, MySQL, Firebase, postgreSQL  
 
 <br/>
 
@@ -43,6 +43,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 </div>
