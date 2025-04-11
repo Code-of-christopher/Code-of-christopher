@@ -68,9 +68,6 @@
 
 <br/>
 <br/>
-
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christphr&theme=tokyonight)](https://wakatime.com/@christphr)
     
   </div>
 
