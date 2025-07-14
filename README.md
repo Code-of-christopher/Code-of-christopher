@@ -75,7 +75,7 @@
 
 
 <br/>
-
+<!--
 ## 📚 Currently Learning
 
 - <samp>Rust 🦀</samp> <a href="https://www.rust-lang.org/" title="Rust Documentation" target="_blank">(Docs)</a>
@@ -84,6 +84,7 @@
 
 
 <br/>
+-->
 
 ## 📬 Get in Touch
 
