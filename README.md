@@ -81,7 +81,6 @@
 
 - <samp>Rust 🦀</samp> <a href="https://www.rust-lang.org/" title="Rust Documentation" target="_blank">(Docs)</a>
 - <samp>Go 🚀</samp> <a href="https://go.dev/" title="Go Documentation" target="_blank">(Docs)</a>
-- <samp>Solidity ⚖️</samp> <a href="https://docs.soliditylang.org/" title="Solidity Documentation" target="_blank">(Docs)</a>
 
 
 <br/>
