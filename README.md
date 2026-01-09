@@ -1,24 +1,10 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome+👋;+I'm+Chris+Topher;" />
-</h1>
-<br/>
 <div align="center">
-    I'm a fullstack developer working with typescript
+    I'm Christopher, a fullstack developer working with typescript
 </div>
 
 <br/>
 
-## 🚀 My Tech Stack  
-
-### **Frontend Development**  
-- React, Next.js, Tailwind CSS, Material UI, Bootstrap  
-
-### **Backend Development**  
-- Node.js, Express.js, MongoDB, MySQL, Firebase  
-
-<br/>
-
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 
 <div align="center">
 
@@ -71,17 +57,6 @@
   </div>
 
 </details>
-
-
-
-
-<br/>
-
-## 📚 Currently Learning
-
-- <samp>Rust 🦀</samp> <a href="https://www.rust-lang.org/" title="Rust Documentation" target="_blank">(Docs)</a>
-- <samp>Go 🚀</samp> <a href="https://go.dev/" title="Go Documentation" target="_blank">(Docs)</a>
-
 
 <br/>
 
