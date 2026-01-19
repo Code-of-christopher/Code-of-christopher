@@ -1,5 +1,5 @@
 <div align="center">
-    I'm Christopher, a fullstack developer working with typescript
+    I am Christopher, a fullstack developer working with typescript
 </div>
 
 <br/>
